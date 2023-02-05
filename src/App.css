@@ -37,3 +37,8 @@
     transform: translateY(0px);
   }
 }
+
+.photo {
+  width: 200px;
+  height: 200px;
+}
